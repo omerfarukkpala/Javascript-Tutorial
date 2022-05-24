@@ -35,5 +35,16 @@ console.log(typeof sample);
 var sampleNull=null;
 console.log(typeof sampleNull);
 
+age ='three';
+console.log(typeof age);
+
+var age =3;
+console.log(age);
+
+age = 4;
+console.log(age);
+
+age = 'four';
+console.log(age);
 
 
