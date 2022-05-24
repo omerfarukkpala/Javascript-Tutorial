@@ -33,5 +33,7 @@ var sample;
 console.log(typeof sample);
 
 var sampleNull=null;
+console.log(typeof sampleNull);
+
 
 

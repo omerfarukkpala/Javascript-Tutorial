@@ -23,7 +23,7 @@ console.log(bosamanull);
 age = 28;
 console.log(age);
 
-//Yukarıda degerımız 16ydı ancak artık 17 olarak ekrana verilecektir.
+//Yukarıda degerımız 26ydı ancak artık 27 olarak ekrana verilecektir.
 
 yas ='yirmisekiz';
 console.log(yas);
