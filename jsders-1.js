@@ -8,7 +8,6 @@ console.log(age);
 
 //Tahmin edileceği üzere ekran çıktımız bu sefer 'age' degiskenimizin turu
 
-
 var bos;
 console.log(bos);
 
