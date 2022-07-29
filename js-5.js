@@ -24,9 +24,9 @@ console.log(x);
 var x =5;
 var y =6;
 
-if (x=y){
+if (x==y){
     // Her zaman doğru olur.
-    console.log(x);
+    console.log("x ve y eşittir.");
 }
 else{
     alert("x ve y eşit değil");
@@ -34,5 +34,5 @@ else{
 
 /*x ve ynin esitligini degerlendiren if-else yapısı yaptık.Eger x ve y sayıca esitse
  İf bloguna,degıllerse de else bloguna girecektir.
- (==) ile gosterilen cıft esıttır sadece sayıları
+ (==) ile gosterilen cıft esıttır sadece sayıları atar
  (===) ile gosterılen uc esıttır ise Veri tiplerini ve sayıların esıtlıgını ınceler. */
