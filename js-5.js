@@ -64,10 +64,10 @@ console.log(x);
 x--; //x ten bir çıkarttık  ve degerını 6 iken 5 yaptık.
 console.log(--x);//Onemlı olan eksilerin ve artıların yeri goruldugu gibi burda eksi x'in onunde 
 //yani yapılan bu azaltma islemi bu satıra dahıl oluyor x degerı 5 yazacaktır ekrana.
-
+console.log(x++);//x degeri 5 olduğu için x'in degeri 6 yazacaktır.
 console.log(x);//ekrana 5 yazdırır.
 console.log(x++);//x in degerını bir sonrakı yazdırma ıslemı ıcın 1 arttırmıs olduk fakat değeri 5 yaptık.
 
 console.log(x);//1 oncekı satırda arttırılma ıslemı bu satıra devretti artık x'in degerı 6.
 
-console.log(x++);//x degeri 5 olduğu için x'in degeri 6 yazacaktır.
+
