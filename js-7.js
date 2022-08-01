@@ -5,7 +5,7 @@
 
 // Not :true false çevrimi yapar
 
-var age = 28;
+/*var age = 28;
 var job= 'programcı'
 
 if(job=='programcı' || age>=35){ //programcı veya yaş 35 yaşından büyük ise
@@ -13,7 +13,8 @@ if(job=='programcı' || age>=35){ //programcı veya yaş 35 yaşından büyük i
 } else {
 
     console.log('üye olamazsınız');
-}   /* || OR operatörü
+}  */
+ /* || OR operatörü
 doğru && doğru true
 yanlış && doğru= doğru
 doğru && yanlış =doğru
@@ -37,4 +38,13 @@ doğru && yanlış =yanlış
 yanlış && yanlış = yanlış */
 
 
+var isMarried = true;
 
+if(!isMarried){
+    console.log("Evlisiniz"); //evlisiniz
+}else{
+    console.log("Evli değilsiniz");     //evli değilsiniz
+}   
+/*! NOT Operatoru
+!true=false
+!false=true*/
