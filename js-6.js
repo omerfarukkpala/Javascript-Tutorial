@@ -34,3 +34,17 @@ else {
  }else {
      console.log("faruk değeri false if in içerisinde");
  }
+
+ var x=10;
+    if(x>8) {
+        console.log("x değeri 8'den büyük");
+    }
+
+
+var x=5;
+if(x>5) 
+    console.log("bu ifade if in içerisinde");  
+    console.log("bu ifade if in içerisinde2");     
+    console.log("bu ifade if in içerisinde3");
+
+
