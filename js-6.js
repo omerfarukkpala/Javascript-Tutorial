@@ -14,14 +14,23 @@ else {
       console.log("x değeri 5'den küçük");
   }
 
-  if(x > 5) {
+ if(x > 5) {
       console.log("x değeri 5'den büyük");
   } 
 
-  if(x <5) {
+ else if(x <5) {
       console.log("x değeri 5'den küçük");
   }
 
-  if(x == 5) {
+ else if(x == 5) {
         console.log("x değeri 5");
  }   // x değeri 5 olarak eşitse yapılacak işlemler
+
+
+ var x = 10;
+ var faruk =false;
+ if( faruk ) {
+     console.log("faruk değeri true if in içerisinde");
+ }else {
+     console.log("faruk değeri false if in içerisinde");
+ }
