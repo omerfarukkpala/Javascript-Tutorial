@@ -24,5 +24,17 @@ switch(job){
     case "Öğretmen":
         console.log("Ben bir öğretmenim.");
         break;
+
+    case "asker":
+        console.log("Ben bir askerim.");
+        break;
+        
+    case "Doktor":
+        console.log("Ben bir doktorum.");
+        break;
+        
+    default:
+        console.log("Ben bir işsizim.");
+
 }
 
