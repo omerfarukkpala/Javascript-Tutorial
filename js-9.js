@@ -11,8 +11,18 @@ switch(kontrol edilecek durum){
 
     default:
         kod çalıştır;
-        
+        break;
+
 
 }
 
 */
+var  job=prompt("Doktor");
+
+switch(job){
+
+    case "Öğretmen":
+        console.log("Ben bir öğretmenim.");
+        break;
+}
+
