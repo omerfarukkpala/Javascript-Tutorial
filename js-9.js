@@ -16,7 +16,8 @@ switch(kontrol edilecek durum){
 
 }
 
-*/
+*/ 
+//meslek kontrol ediyoruz.
 var  job=prompt("Doktor");
 
 switch(job){
