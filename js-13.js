@@ -6,7 +6,7 @@ Fonksiyonlar  Uygulama
 //cevre=2 * 3.14 * r;
 
 var yaricap =prompt("Yarıçapı giriniz");
-
+ 
 function daireCevreAlan(yaricap){
 
     var cevre = parseInt(2 * Math.PI * yaricap);
