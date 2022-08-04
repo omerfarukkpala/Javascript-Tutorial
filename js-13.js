@@ -1,0 +1,4 @@
+
+/*
+Fonksiyonlar  Uygulama
+*/
