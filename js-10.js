@@ -4,3 +4,5 @@ function fonksiyon_adi(parametreler) {
     yapılması istenilen işlemler
 }
 */
+
+
