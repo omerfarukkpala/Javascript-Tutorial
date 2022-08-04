@@ -1,0 +1,8 @@
+
+/*Javascript Fonksiyon Yapısı 
+
+SCOPE
+
+*/ 
+
+
