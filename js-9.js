@@ -24,7 +24,7 @@ switch(job){
 
     case "Öğretmen":
         console.log("Ben bir öğretmenim.");
-        break;
+        break;S
 
     case "asker":
         console.log("Ben bir askerim.");
