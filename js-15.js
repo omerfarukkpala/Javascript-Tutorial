@@ -19,13 +19,19 @@ while (x < 10) {
 
 */
 
-var x =10;
+/*var x =10;
 while (x < 10) {
     console.log(x);
     x++;
 }
-
+*/
 for (var y=1; y<10; y++) {
+
+    if(y==5){
+    //break;
+    continue;
+    
+}
     console.log(y);
 }
 
