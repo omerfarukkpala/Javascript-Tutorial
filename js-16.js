@@ -32,3 +32,6 @@ console.log(bilgiler);
 bilgiler.shift();
 console.log(bilgiler);
 
+console.log(bilgiler.indexOf('Ömer'));
+
+
