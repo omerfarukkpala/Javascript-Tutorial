@@ -25,3 +25,16 @@ player1.age=36;
 
 console.log(player1);
 
+player1['goal']=15;
+
+console.log(player1);
+
+
+var player2=new Object();
+player2.name='Anıl';
+player2.lastName='AE';
+player2.age=34;
+player2.goal=27;
+
+console.log(player1);
+console.log(player2);
