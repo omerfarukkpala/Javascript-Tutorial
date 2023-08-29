@@ -30,11 +30,11 @@ player1['goal']=15;
 console.log(player1);
 
 
-var player2=new Object();
+var player2=new Object(); //yeni bir nesne oluşturduk
 player2.name='Anıl';
 player2.lastName='AE';
 player2.age=34;
 player2.goal=27;
 
-console.log(player1);
+console.log(player1); //player1 ve player2 aynı nesne yapısına sahip
 console.log(player2);
