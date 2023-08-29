@@ -36,5 +36,5 @@ player2.lastName='AE';
 player2.age=34;
 player2.goal=27;
 
-console.log(player1); //player1 ve player2 aynı nesne yapısına sahip
+console.log(player1); //player1 ve player2 aynı nesne yapısına sahip nesnenin tamamını göster.
 console.log(player2);
