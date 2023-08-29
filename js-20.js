@@ -1,5 +1,6 @@
 //3 kitaptan hangisinin okunup hangisinin okunmadığı ile ilgili bir ugulama yapalım.
 var library = [ 
+  // kitaplar hakkında bilgileri tutan objeler
   {
     title: 'İnce Memed',
     author:'Yaşar Kemal',
