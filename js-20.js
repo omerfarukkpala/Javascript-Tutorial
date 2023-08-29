@@ -17,4 +17,4 @@ var library = [
     status: false
   } ];
 
- // okunan okunmayan kitaplar hakkında bilgi veren 
+ // okunan okunmayan kitaplar hakkında bilgi verenn
