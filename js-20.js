@@ -17,4 +17,4 @@ var library = [
     status: false
   } ];
 
- // okunan okunmayan kitaplar hakkında bilgii
+ // okunan okunmayan kitaplar hakkında bilgiii veren fonksiyon
