@@ -16,4 +16,5 @@ console.log(myClass);
 
 console.log(myClass[1]);//2. indexi verir
 
-myClass[1].textContent = 'İletişim';
+myClass[2].textContent = 'İletişim';
+myClass[2].style.borderBottom = '1px solid red';
