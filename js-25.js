@@ -11,10 +11,20 @@
 
 // myElement.style.backgroundColor = 'red';
 
-var myClass = document.getElementsByClassName('nav-link');
-console.log(myClass);
+// var myClass = document.getElementsByClassName('nav-link');
+// console.log(myClass);
 
-console.log(myClass[1]);//2. indexi verir
+// console.log(myClass[1]);//2. indexi verir
 
-myClass[2].textContent = 'İletişim';
-myClass[2].style.borderBottom = '1px solid red';
+// myClass[2].textContent = 'İletişim';
+// myClass[2].style.borderBottom = '1px solid red';
+
+
+var myElements = document.getElementsByTagName('h4');
+console.log(myElements);
+
+myElements[0].textContent = 'H4 Yeni Başlık';
+
+for(var i =0 ; i<myElements.length; i++){
+  myElements[i].textContent = 'H4 Yeni Başlık';
+}
