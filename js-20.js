@@ -19,3 +19,4 @@ var library = [
   } ];
 
  // okunan okunmayan kitaplar hakkında bilgiii veren fonksiyon
+ //fonksiyon
