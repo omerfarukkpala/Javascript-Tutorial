@@ -19,4 +19,16 @@ var library = [
   } ];
 
  // okunan okunmayan kitaplar hakkında bilgiii veren fonksiyon
- //fonksiyon
+ 
+ for (var i=0; i<library.length; i++) {
+  //kitabın okunup okunmadığına dair geri dönüş yapsım istiyorum.
+   var book = library[i].title + " yazarı " + library[i].author + " . ";
+    if (library[i].status) {
+      //statüse baksın ve true ise okundu false ise okunmadı yazsın.
+      console.log(book + "Okundu.");
+    } else {
+      console.log(book + "Okunmadı.");
+    }
+ }
+ 
+
