@@ -7,13 +7,15 @@ Dersler esnasında öğrendiğim Javascript bilgilerini pekiştirmek için yapt�
 git clone
 ```
 ## Usage
+yaptığım örnek slider uygulamasıdır.
+```
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 ```
-yaptığım örnek slider uygulaması
+https://basit-slider-uygulamas.netlify.app/
 
 ```
-https://basit-slider-uygulamas.netlify.app/
+
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
