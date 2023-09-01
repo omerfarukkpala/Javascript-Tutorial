@@ -1,0 +1,1 @@
+//dom ile js arasındaki  ilişki
