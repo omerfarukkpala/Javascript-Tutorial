@@ -20,6 +20,28 @@
   this.surname = surname;
   this.age = age;
  }
- var Player1 = new Player('Koro', 'Sensei', 28);
+ /*var Player1 = new Player('Koro', 'Sensei', 28);
  var Player2 = new Player('Karma', 'Akabane', 17);
  var Player3 = new Player('Nagisa', 'Shiota', 24);
+*/
+
+
+ var players = [
+     new Player('Koro', 'Sensei', 28),
+     new Player('Karma', 'Akabane', 17),
+     new Player('Nagisa', 'Shiota', 24), 
+ ];
+ //nesneleri array in içine koyduk.
+  console.log(players[0]);
+  //Player {name: 'Koro', surname: 'Sensei', age: 28}
+  console.log(players[2].name);
+  //Nagisa
+
+  console.log(players[2].surname);
+  //Shiota
+
+
+  // nesne yapıcı işlemleri bu şekilde.
+
+
+
