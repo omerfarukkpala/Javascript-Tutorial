@@ -13,8 +13,9 @@ Below are the links to the sample applications I have created.
 
 ```
 https://creating-basic-slider.netlify.app/
-https://simple-addition-operation.netlify.app/
+
 ```
+https://simple-addition-operation.netlify.app/
 
 ## Contributing
 
