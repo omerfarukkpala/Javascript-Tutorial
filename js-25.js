@@ -28,3 +28,4 @@ myElements[0].textContent = 'H4 Yeni Başlık';
 for(var i =0 ; i<myElements.length; i++){
   myElements[i].textContent = 'H4 Yeni Başlık';
 }
+
