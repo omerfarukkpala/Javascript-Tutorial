@@ -9,9 +9,10 @@ git clone
 ## Usage
 Below are the links to the sample applications I have created:
 
-- [Creating Basic Slider](https://creating-basic-slider.netlify.app/)-Created for making a basic slider.
-- [Simple Addition Operation](https://simple-addition-operation.netlify.app/)-An application for simple addition operation.
-- [Simple Accordion](https://basic-accordion.netlify.app/)- A basic accordion application.
+- [Creating Basic Slider](https://creating-basic-slider.netlify.app/){:target="_blank"} - Created for making a basic slider.
+- [Simple Addition Operation](https://simple-addition-operation.netlify.app/){:target="_blank"} - An application for simple addition operation.
+- [Simple Accordion](https://basic-accordion.netlify.app/){:target="_blank"} - A basic accordion application.
+
 
 
 ```
