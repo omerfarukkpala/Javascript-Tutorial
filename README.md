@@ -6,7 +6,7 @@ First, clone the project.
 ```
 git clone
 ```
-## Usage
+## Usage 
 Below are the links to the sample applications I have created:
 
 - [Creating Basic Slider](https://creating-basic-slider.netlify.app/)-Created for making a basic slider.
