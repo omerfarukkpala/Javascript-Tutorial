@@ -16,8 +16,8 @@ Below are the links to the sample applications I have created:
 
 ```
 
-
-## Contributing 
+```
+## Contributing
 
 You can copy and paste this text into a single page for your project documentation.
 
