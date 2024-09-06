@@ -2,7 +2,7 @@
 This is a project I have created to reinforce my JavaScript knowledge gained during the lessons.
 ## Installation
 First, clone the project.   
-
+ 
 ``` 
 git clone
 ```
