@@ -3,7 +3,7 @@ This is a project I have created to reinforce my JavaScript knowledge gained dur
 ## Installation
 First, clone the project.   
  
-``` 
+```  
 git clone
 ```
 ## Usage 
