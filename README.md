@@ -5,7 +5,7 @@ First, clone the project.
  
 ```  
 git clone
-```
+``` 
 ## Usage 
 Below are the links to the sample applications I have created:
 
