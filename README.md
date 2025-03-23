@@ -4,7 +4,7 @@ This is a project I have created to reinforce my JavaScript knowledge gained dur
 First, clone the project.   
  
 ```  
-git clone
+git clone 
 ``` 
 ## Usage 
 Below are the links to the sample applications I have created:
